@@ -1,0 +1,49 @@
+body{
+  text-align: center;
+  background-color: purple;  
+}
+
+#H11111{
+    background-color: rgb(159, 5, 159);
+    font-family: cursive;
+    color:rgb(0, 1, 2)
+}
+
+#letsgooooo{
+    text-align: center;
+    background-color: rgb(170, 43, 170);
+    font-family: cursive;
+    color:rgb(0, 1, 2);
+   float: center;
+   width: 50%;
+   margin-left: 400px;
+} 
+
+
+
+#smartnessmagee2{
+    background-color: rgb(195, 125, 195);
+    font-family: cursive;
+    color:rgb(0, 1, 2);
+    float: center;
+    width: 50%;
+    margin-left: 400px;
+}
+
+#smartnessmagee3{
+    background-color: rgb(218, 147, 218);
+    font-family: cursive;
+    color:rgb(0, 1, 2);
+    float: center;
+    width: 50%;
+    margin-left: 400px;
+}
+
+#smartnessmagee4{
+    background-color: rgb(250, 220, 250);
+    font-family: cursive;
+    color:rgb(0, 1, 2);
+    float: center;
+    width: 50%;
+    margin-left: 400px;
+}
